@@ -82,7 +82,7 @@ LAGAY NG IMAGE DITO NUNG SCREENSHOT NI VITAL
 
 ## References
 
-- **NASA MODIS** – Moderate Resolution Imaging Spectroradiometer. [https://modis.gsfc.nasa.gov](https://modis.gsfc.nasa.gov)  
+- **NASA MODIS** – Moderate Resolution Imaging Spectroradiometer. [(https://www.earthdata.nasa.gov/data/catalog/sedac-ciesin-sedac-sdei-gwrpm25-mmsvaod-5gl04-5.04)]([https://modis.gsfc.nasa.gov](https://www.earthdata.nasa.gov/data/catalog/sedac-ciesin-sedac-sdei-gwrpm25-mmsvaod-5gl04-5.04))  
 - **Copernicus ERA5-Land** – Global climate reanalysis data. [https://cds.climate.copernicus.eu](https://cds.climate.copernicus.eu)  
 - **WorldPop** – Global High Resolution Population Denominators. [https://www.worldpop.org](https://www.worldpop.org)  
 - **Local Climate Zones (LCZ)** – Urban climatology data for city-scale environmental analysis. [https://www.localclimatezones.org](https://www.localclimatezones.org)  
