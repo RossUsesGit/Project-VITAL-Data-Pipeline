@@ -2,7 +2,7 @@
 ### A Multi-Dimensional Hybrid Scale Framework for Urban Resilience
 
 ## Overview
-**Project VITAL** (Vitality, Infrastructure, Temperature, Air, and Livability) is a framework using a multi-dimensional scoring system to assess urban resilience and livability at the **city scale**. By integrating multiple data sources—including *NASA (MODIS), Copernicus (ERA5-Land), WorldPop, Local Climate Zones (LCZ) by Urban Climatology, and World Health Organization (WHO)* datasets—VITAL transforms complex environmental and infrastructural variables into **easily interpretable scores**.  
+**Project VITAL** (Vitality, Infrastructure, Temperature, Air, and Livability) is a framework using a multi-dimensional scoring system to assess urban resilience and livability at the **city scale**. By integrating multiple data sources—including *NASA (MODIS, Earthdata, SEDAC), Copernicus (ERA5-Land), WorldPop, Local Climate Zones (LCZ), World Health Organization (WHO)* datasets—VITAL transforms complex environmental and infrastructural variables into **easily interpretable scores**.  
 
 The framework applies multiple mathematical transformation and aggregation methods, such as **linear, logarithmic, exponential, and sigmoid scaling**, to account for non-linear relationships across sub-metrics. These scores communicate how cities respond to environmental stressors and support human wellbeing. VITAL is **modular and forward-thinking**, allowing the integration of new metrics as data and methods evolve, making it a **dynamic tool for sustainable urban development**.
 
