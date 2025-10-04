@@ -24,7 +24,7 @@ The framework applies multiple mathematical transformation and aggregation metho
 
 **Chronic Heat Stress Score (CHSS)** – Captures long-term heat exposure and its impact on human wellbeing.  
 
-**Urban Environmental Integration Score (UEI)** – Assesses green infrastructure and environmental planning in urban areas.  
+**Urban Environmental Integration Score (UEI)** – Assesses the fraction of green areas and its accessibility to people to be used as leverage for detecting necessary improvements in environmental location planning and strategies.  
 
 **Population Density Score (PDS)** – Reflects city density and its influence on resource strain and exposure to stressors.  
 
@@ -42,7 +42,7 @@ The framework applies multiple mathematical transformation and aggregation metho
 
 - **Chronic Heat Stress (CHSS)** – Copernicus ERA5-Land daily temperature and 2m dewpoint data were used to compute relative humidity and heat exposure metrics.  
 
-- **Urban Environmental Integration (UEI)** – Derived from Local Climate Zones and urban climatology measures of green infrastructure and environmental planning.  
+- **Urban Environmental Integration (UEI)** – Derived from a map of Local Climate Zones by Ruhr University Bochum’s measures of green and infrastructure fractions and assessed using the 30% Green Cover and 300m Access (from 3-30-300) rule by the Nature Based Solutions Institute.
 
 - **Population Density (PDS)** – Calculated from WorldPop Global High Resolution Population Denominators to measure exposure to density-based stressors.  
 
