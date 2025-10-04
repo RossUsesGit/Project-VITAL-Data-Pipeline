@@ -85,7 +85,14 @@ LAGAY NG IMAGE DITO NUNG SCREENSHOT NI VITAL
 - **NASA MODIS** – Global Annual PM2.5 Grids from MODIS, MISR, SeaWiFS and VIIRS Aerosol Optical Depth (AOD), 1998-2022, V5.GL.04 [(https://www.earthdata.nasa.gov/data/catalog/sedac-ciesin-sedac-sdei-gwrpm25-mmsvaod-5gl04-5.04)]([https://modis.gsfc.nasa.gov](https://www.earthdata.nasa.gov/data/catalog/sedac-ciesin-sedac-sdei-gwrpm25-mmsvaod-5gl04-5.04))  
 - **Copernicus ERA5-Land** – ERA5-Land post-processed daily statistics from 1950 to present [[https://cds.climate.copernicus.eu]([https://cds.climate.copernicus.eu/datasets/derived-era5-land-daily-statistics?tab=overview)]
 - **WorldPop** – Global High Resolution Population Denominators. [https://www.worldpop.org](https://www.worldpop.org)  
-- **Local Climate Zones (LCZ)** – Urban climatology data for city-scale environmental analysis. [https://www.localclimatezones.org](https://www.localclimatezones.org)  
+- **Local Climate Zones (LCZ)** – Urban climatology data for city-scale environmental analysis.
+-[https://www.localclimatezones.org](https://www.localclimatezones.org)
+
+OECD (2020).
+Cities in the World: A New Perspective on Urbanisation.
+Organisation for Economic Co-operation and Development (OECD Urban Studies).
+DOI: .[https://www.doi.org/10.1787/d0efcbda-en]
+
 - **World Health Organization (WHO)** – Drinking water, sanitation, and health data. [https://www.who.int](https://www.who.int)  
 - **WHO/UNICEF Joint Monitoring Programme (JMP)** – Water and sanitation indicators. [https://washdata.org](https://washdata.org)  
 - **Global Burden of Disease Studies** – Epidemiological data on PM2.5 health impacts. [https://www.healthdata.org/gbd](https://www.healthdata.org/gbd)  
