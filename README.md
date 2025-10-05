@@ -39,6 +39,11 @@ Project Team:
 
 ---
 
+## Link to Frontend / Main
+This repository only contains the backend, documentation, scripts, and research part of Project VITAL. To access the main application / frontend, click this link: https://github.com/RossUsesGit/Project-VITAL.git
+
+---
+
 ## References
 
 - For dataset sources and methodology, see the **documentation PDF** in the `docs/` folder.
