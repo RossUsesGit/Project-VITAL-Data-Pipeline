@@ -1,3 +1,7 @@
+'''
+AI USE ACKNOWLEDGEMENT: ChatGPT assisted with copying the pixel data and transferring it into the clipped raster map of the city, turning it into usable tif for analyses.
+'''
+
 import geopandas as gpd
 import rasterio
 from rasterio.mask import mask
