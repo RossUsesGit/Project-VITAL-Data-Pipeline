@@ -1,3 +1,10 @@
+'''
+AI USE ACKNOWLEDGEMENT: The formulas for 30% Cover Score, and 300m Access to Natural Cover were made by the team member in charge of UEI. The code for 30% Cover score were mostly
+human-coded, AI only helped with extraction. For 300m Access, AI helped find the distance transform method from a Python Library. It helped mask and convert LCZ classes into booleans
+which were convenient to analyze for proximity. The LCZ classes used under this code were manually handpicked and verified by the team member wtih existing sources from Copernicus
+publishing. The team member came up with the idea of using LCZs as assessment for urban green health with the help of 3-30-300 rule, AI only assisted with execution of the said idea.
+'''
+
 import numpy as np
 import pandas as pds
 import rasterio
