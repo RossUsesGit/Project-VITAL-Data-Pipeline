@@ -1,4 +1,10 @@
 import geopandas as gpd
+'''
+ACKNOWLEDGEMENT OF AI USE: AI Generated the code for extraction using geopandas. For some cities, that are not readily available in country shapefiles of GADM, the AI provided
+assistance to finding districts under it and fusing them into one shapefile. However, the team also verified manually if the cities are accurate by checking their categories in
+the array manuall (see line 62 for reference). This ensures that the correct city is extracted, which then underwent manual verification through visual comparison of actual maps 
+of target cities against the extracted shape by the code. 
+'''
 
 '''
 City Shapefile extractor sample, in the context of Greece
