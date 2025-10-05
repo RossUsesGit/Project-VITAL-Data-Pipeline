@@ -30,9 +30,9 @@ The **Project VITAL Data Pipeline** repository contains all the scripts, process
 Project Team:
 
 - **Ross Andrew Bulaong** – Backend Data Extraction, Research  
-- **Clark Kent Centeno** – Frontend, Graphic Design, Functionalities  
+- **Clark Kent Centeno** – Frontend, Graphic Design, UI Functionalities  
 - **Irick Marvin Galan** – Backend Data Extraction, Research  
-- **David Loterte** – Frontend, Graphic Design, Functionalities  
+- **David Loterte** – Frontend, Graphic Design, UI Functionalities  
 - **Redjohn Rosario** – Backend Data Extraction, Research  
 - **John Paul Tuzara** – Backend Data Extraction, Research  
 
